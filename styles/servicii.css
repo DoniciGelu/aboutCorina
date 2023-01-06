@@ -1,0 +1,157 @@
+h1 {
+    position: absolute;
+    left: 300px;
+    bottom: 480px;
+    font-size: xxx-large;
+}
+
+h2 { 
+    text-align: center;
+    font-size: xxx-large;
+}
+
+h3 {
+    text-align: center;
+    font-size: xxx-large;
+
+}
+
+h4 {
+    text-align: center;
+    font-size: xxx-large;
+}
+
+h5 {
+    text-align: center;
+    font-size: xxx-large; 
+
+}
+.tehniciModerne {
+    position: relative;
+}
+
+img.calculator {
+    width: 100%;
+    height: 600px;
+}
+
+img.bucatar {
+    width: 100%;
+}
+
+img.coafor {
+    width: 100%;
+}
+
+img.contabil {
+    width: 100%;
+}
+
+img.gridMeniu  {
+    width: 241px;
+    height: 146px;
+}
+
+.gridMasaj {
+    margin-left: 170px;
+    margin-top: 80px;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 80px;
+}
+
+.TypeMasaj {
+    justify-content:center ;
+    display: flex;
+    width: 342px;
+    height: 140px;
+    position: relative;
+    left: 450px  ;
+    background-color: #FFFFFF;
+    border-radius: 70px;
+    margin-bottom: 53px;
+    margin-top: 64px;
+}
+
+.program {
+    height: 52px;
+    font-size: 24px;
+    background-color: #b9b0b0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.gridTehnica {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 16px;
+    justify-content: center;
+    font-size: 20px;
+}
+
+.blue {
+    background-color: aqua;
+}
+
+.activePage a {
+    color: black !important ;
+}
+
+.gridMeniu {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 50px;
+    justify-content: center;
+    margin-top: 41px;
+    margin-bottom: 38px;
+}
+
+.programProfesional {
+    height: 52px;
+    font-size: 24px;
+    background-color: #b9b0b0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.gridHair {
+   display: grid;
+    grid-template-columns: auto auto;
+    gap: 16px;
+    justify-content: center;
+    font-size: 20px;
+}
+
+.gridCoafor {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 50px;
+    justify-content: center;
+    margin-top: 41px;
+    margin-bottom: 40px; 
+
+}
+
+.gridCoafor img {
+    width: 217px;
+    height: 181px;
+}
+
+.prosMaistru {
+    justify-content:center ;
+    display: flex;
+    width: 478px;
+    position: relative;
+    left: 450px  ;
+    background-color: #FFFFFF;
+    border-radius: 53px;
+    margin-bottom: 41px;
+    font-size: 18px;
+}
+
+
+

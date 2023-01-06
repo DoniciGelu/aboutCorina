@@ -1,0 +1,68 @@
+body{
+    background-color: black;
+}
+
+img.colegii {
+    width: 100%;
+}
+
+.activePage a {
+    color: black !important ;
+}
+
+.gridCorina {
+    align-items: center;
+    margin-left: 350px;
+    width: 758px;
+    height: 258px;
+    border-radius: 60px;
+    background-color: #FFFFFF;
+    margin-top: 105px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 30px;
+    justify-content: center;
+}
+
+.gridMaria {
+    align-items: center;
+    margin-left: 350px;
+    width: 758px;
+    height: 258px;
+    border-radius: 60px;
+    background-color: #FFFFFF;
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 30px;
+    justify-content: center;
+}
+
+.gridElena {
+     align-items: center;
+    margin-left: 350px;
+    width: 758px;
+    height: 258px;
+    border-radius: 60px;
+    background-color: #FFFFFF;
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 30px;
+    justify-content: center;
+}
+
+.gridAndrei {
+    align-items: center;
+    margin-left: 350px;
+    width: 758px;
+    height: 258px;
+    border-radius: 60px;
+    background-color: #FFFFFF;
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    gap: 30px;
+    justify-content: center;
+    margin-bottom: 50px;
+}

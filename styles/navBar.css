@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+    margin: 0px;
+    background-color: #F5F5DC;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navBar {
+    position: sticky;
+    z-index: 10;
+    top: 0px;
+    background: #FFFFFF;
+    display: grid;
+    grid-template-columns: 200px auto 300px;
+}
+
+.navBar ul li {
+    display: inline-block;
+    margin-right: 10px;
+    align-items: center;
+    
+}
+
+.navBar ul li a {
+    text-decoration: none;
+    color: #A9A9A9;
+    font-weight: bold;
+}
+
+.navBar ul li:hover {
+    background-color:aqua
+    
+}
+
+.activePage a {
+    color: blac 
+}
+
+.connectMe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.connectMe button {
+    color: #222022;
+    border-radius:40px;
+    width: 200px;
+    height: 40px;
+    font-size: x-large  ;
+   
+}
+
+.logoTwo {
+    width: 129px;
+    height: 39px;
+    display: flex;
+    margin: 3px;
+}
+
+.gridFooter {
+    padding-left: 120px;
+    background-color: black;
+    color: aliceblue;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.gridFooter h6  {
+    font-size: 20px;
+
+}

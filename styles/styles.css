@@ -1,0 +1,88 @@
+.successh1 h1 {
+    position: absolute;
+    top: 550px;
+    left: 380px;
+    font-size: 1.5cm;
+    font-family:'Roboto', sans-serif;
+    color: #4169E1;
+}
+
+.rectangleh2 {
+    padding: 50px 0 60px 0;
+    text-align: center;
+    font-size: xx-large;
+    
+}
+
+.activePage a {
+    color: black !important ;
+}
+
+.rectangleh2 h2 {
+  font-size: xxx-large;
+}
+
+img.successMe {
+    width: 100%;
+    height: 700px;
+
+}
+
+img.logoMeseria {
+    
+    width: 100%;
+    height: 700px;
+}
+
+.cursuri {
+    position: relative;
+}
+
+.gridMeseria {
+    width: 100%;
+    padding: 40px;
+    top: 50px;
+    position: absolute;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 40px;
+}
+
+h5 {
+    margin-bottom: 55px;
+    margin-top: 54px;
+    font-size: 50px;
+    text-align: center;
+}
+
+.gridViziune {
+    margin-bottom: 70px;
+    margin-left: 120px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    align-items: center;
+    gap:40px;
+    text-align: center;
+}
+
+.gridViziune h6 {
+    font-size: 20px;
+}
+
+.gridViziune img {
+    width:250px;
+    height: 139px;
+}
+
+.gridFooter {
+    padding-left: 120px;
+    background-color: black;
+    color: aliceblue;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.gridFooter h6  {
+    font-size: 20px;
+
+}

@@ -1,0 +1,14 @@
+.contact p {
+    margin-bottom: 71px ;
+    margin-top: 50px;
+    text-align: center;
+    font-size: xxx-large; 
+}
+
+img.harta {
+    width: 100%;
+}
+
+.activePage a {
+    color: black !important ;
+}
